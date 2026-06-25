@@ -12,10 +12,9 @@
 
 ## About Me
 
-I'm a developer who enjoys working across the full stack — from database design to polished frontends. I value readable, maintainable code and thoughtful architecture.
+Aspiring Software Quality Assurance Engineer with a strong foundation in full-stack development. Passionate about ensuring software reliability through readable, maintainable automation frameworks and thoughtful test architecture. Combining an understanding of database design and frontend user experience with a meticulous QA mindset to catch edge cases early, optimize test coverage, and champion software excellence.
 
 - 🔭 Currently building and learning
-- 💬 Ask me about **Python, Laravel, or backend design**
 - 📫 Reach me via GitHub
 
 ---

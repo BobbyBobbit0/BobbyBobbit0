@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louise</h1>
 <h3 align="center">An Aspiring Quality Assurance engineer</h3>
 
-- 📫 How to reach me **+639260382036**
+- 📫 Phone number **+639260382036**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -39,10 +39,13 @@ Aspiring Software Quality Assurance Engineer with a strong foundation in full-st
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BobbyBobbit0&show_icons=true&theme=default&hide_border=true&count_private=true" alt="BobbyBobbit0's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyBobbit0&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="195" />
-</p>
+<div align="center">
+
+![BobbyBobbit0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BobbyBobbit0&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyBobbit0&layout=compact&hide_border=true&theme=default)
+
+</div>
 
 ---
 
